@@ -1,0 +1,12 @@
+# Secrets — never commit your API key
+.env
+.env.local
+src/config.local.js
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
